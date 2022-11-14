@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Fateh Hamid</h1>
 <h3 align="center">A passionate Full Stack Web developer from Morocco</h3>
 
@@ -12,6 +11,8 @@
 - 🤝 I’m looking for help with **Open Source Project**
 
 - 👨‍💻 All of my projects are available at [https://hamidweb.netlify.app/](https://hamidweb.netlify.app/)
+
+- I am a Freelancer at [https://www.upwork.com/freelancers/~01e7abd7e3523da42a](https://www.upwork.com/freelancers/~01e7abd7e3523da42a)
 
 - 📫 How to reach me **f.hamidweb@gmail.com**
 
