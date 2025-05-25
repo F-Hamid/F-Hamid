@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://hamidweb.netlify.app/](https://hamidweb.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://hamidweb.netlify.app/](https://newweb-solutions.netlify.app/)]([https://hamidweb.netlify.app/](https://newweb-solutions.netlify.app/))
 
 - I am a Freelancer at [https://www.upwork.com/freelancers/~01e7abd7e3523da42a](https://www.upwork.com/freelancers/~01e7abd7e3523da42a)
 
 - 📫 How to reach me **f.hamidweb@gmail.com**
 
-- 📄 Know about my experiences [https://hamidweb.netlify.app/](https://hamidweb.netlify.app/)
+- 📄 Know about my experiences [[https://hamidweb.netlify.app/](https://newweb-solutions.netlify.app/)]([https://hamidweb.netlify.app/](https://newweb-solutions.netlify.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
